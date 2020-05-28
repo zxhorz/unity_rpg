@@ -1,0 +1,114 @@
+C:\Users\zucc\Desktop\New Unity Project\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\zucc\Desktop\New Unity Project\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\zucc\Desktop\New Unity Project\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\zucc\Desktop\New Unity Project\Temp\bin\Debug\nunit.framework.dll
+C:\Users\zucc\Desktop\New Unity Project\Temp\bin\Debug\UnityEditor.dll
+C:\Users\zucc\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\zucc\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.dll
+C:\Users\zucc\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\zucc\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\zucc\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\zucc\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\zucc\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\zucc\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\zucc\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\zucc\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\zucc\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+C:\Users\zucc\Desktop\New Unity Project\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\zucc\Desktop\New Unity Project\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\zucc\Desktop\New Unity Project\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\zucc\Desktop\New Unity Project\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\zucc\Desktop\New Unity Project\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\zucc\Desktop\New Unity Project\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\zucc\Desktop\New Unity Project\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\zucc\Desktop\New Unity Project\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Users\zucc\Desktop\New Unity Project\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Users\zucc\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.xml
+C:\Users\zucc\Desktop\New Unity Project\Temp\bin\Debug\UnityEditor.xml
+C:\Users\zucc\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\zucc\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\zucc\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\zucc\Desktop\New Unity Project\Temp\bin\Debug\nunit.framework.xml
+C:\Users\zucc\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\zucc\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+C:\Users\zucc\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\zucc\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\zucc\Desktop\New Unity Project\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\zucc\Desktop\New Unity Project\obj\Debug\Assembly-CSharp.dll
+C:\Users\zucc\Desktop\New Unity Project\obj\Debug\Assembly-CSharp.pdb
+H:\Develop\Project\New Unity Project\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+H:\Develop\Project\New Unity Project\obj\Debug\Assembly-CSharp.dll
+H:\Develop\Project\New Unity Project\Temp\bin\Debug\Assembly-CSharp.dll
+H:\Develop\Project\New Unity Project\Temp\bin\Debug\Assembly-CSharp.pdb
+H:\Develop\Project\New Unity Project\Temp\bin\Debug\nunit.framework.dll
+H:\Develop\Project\New Unity Project\Temp\bin\Debug\UnityEditor.dll
+H:\Develop\Project\New Unity Project\Temp\bin\Debug\UnityEngine.Analytics.dll
+H:\Develop\Project\New Unity Project\Temp\bin\Debug\UnityEngine.dll
+H:\Develop\Project\New Unity Project\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+H:\Develop\Project\New Unity Project\Temp\bin\Debug\UnityEngine.HoloLens.dll
+H:\Develop\Project\New Unity Project\Temp\bin\Debug\UnityEngine.Networking.dll
+H:\Develop\Project\New Unity Project\Temp\bin\Debug\UnityEngine.Purchasing.dll
+H:\Develop\Project\New Unity Project\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+H:\Develop\Project\New Unity Project\Temp\bin\Debug\UnityEngine.TestRunner.dll
+H:\Develop\Project\New Unity Project\Temp\bin\Debug\UnityEngine.Timeline.dll
+H:\Develop\Project\New Unity Project\Temp\bin\Debug\UnityEngine.UI.dll
+H:\Develop\Project\New Unity Project\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+H:\Develop\Project\New Unity Project\Temp\bin\Debug\Unity.Cecil.dll
+H:\Develop\Project\New Unity Project\Temp\bin\Debug\Unity.SerializationLogic.dll
+H:\Develop\Project\New Unity Project\Temp\bin\Debug\ExCSS.Unity.dll
+H:\Develop\Project\New Unity Project\Temp\bin\Debug\Unity.DataContract.dll
+H:\Develop\Project\New Unity Project\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+H:\Develop\Project\New Unity Project\Temp\bin\Debug\Unity.UNetWeaver.dll
+H:\Develop\Project\New Unity Project\Temp\bin\Debug\Unity.CecilTools.dll
+H:\Develop\Project\New Unity Project\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+H:\Develop\Project\New Unity Project\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+H:\Develop\Project\New Unity Project\Temp\bin\Debug\UnityEngine.xml
+H:\Develop\Project\New Unity Project\Temp\bin\Debug\UnityEditor.xml
+H:\Develop\Project\New Unity Project\Temp\bin\Debug\UnityEngine.UI.xml
+H:\Develop\Project\New Unity Project\Temp\bin\Debug\UnityEngine.Networking.xml
+H:\Develop\Project\New Unity Project\Temp\bin\Debug\UnityEngine.TestRunner.xml
+H:\Develop\Project\New Unity Project\Temp\bin\Debug\nunit.framework.xml
+H:\Develop\Project\New Unity Project\Temp\bin\Debug\UnityEngine.Timeline.xml
+H:\Develop\Project\New Unity Project\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+H:\Develop\Project\New Unity Project\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+H:\Develop\Project\New Unity Project\Temp\bin\Debug\UnityEngine.HoloLens.xml
+H:\Develop\Project\New Unity Project\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+H:\Develop\Project\New Unity Project\obj\Debug\Assembly-CSharp.pdb
+C:\Users\len\Desktop\New Unity Project20171224\New Unity Project\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\len\Desktop\New Unity Project20171224\New Unity Project\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\len\Desktop\New Unity Project20171224\New Unity Project\Temp\bin\Debug\nunit.framework.dll
+C:\Users\len\Desktop\New Unity Project20171224\New Unity Project\Temp\bin\Debug\UnityEditor.dll
+C:\Users\len\Desktop\New Unity Project20171224\New Unity Project\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\len\Desktop\New Unity Project20171224\New Unity Project\Temp\bin\Debug\UnityEngine.dll
+C:\Users\len\Desktop\New Unity Project20171224\New Unity Project\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\len\Desktop\New Unity Project20171224\New Unity Project\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\len\Desktop\New Unity Project20171224\New Unity Project\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\len\Desktop\New Unity Project20171224\New Unity Project\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\len\Desktop\New Unity Project20171224\New Unity Project\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\len\Desktop\New Unity Project20171224\New Unity Project\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\len\Desktop\New Unity Project20171224\New Unity Project\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\len\Desktop\New Unity Project20171224\New Unity Project\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\len\Desktop\New Unity Project20171224\New Unity Project\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+C:\Users\len\Desktop\New Unity Project20171224\New Unity Project\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\len\Desktop\New Unity Project20171224\New Unity Project\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\len\Desktop\New Unity Project20171224\New Unity Project\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\len\Desktop\New Unity Project20171224\New Unity Project\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\len\Desktop\New Unity Project20171224\New Unity Project\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\len\Desktop\New Unity Project20171224\New Unity Project\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\len\Desktop\New Unity Project20171224\New Unity Project\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\len\Desktop\New Unity Project20171224\New Unity Project\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Users\len\Desktop\New Unity Project20171224\New Unity Project\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Users\len\Desktop\New Unity Project20171224\New Unity Project\Temp\bin\Debug\UnityEngine.xml
+C:\Users\len\Desktop\New Unity Project20171224\New Unity Project\Temp\bin\Debug\UnityEditor.xml
+C:\Users\len\Desktop\New Unity Project20171224\New Unity Project\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\len\Desktop\New Unity Project20171224\New Unity Project\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\len\Desktop\New Unity Project20171224\New Unity Project\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\len\Desktop\New Unity Project20171224\New Unity Project\Temp\bin\Debug\nunit.framework.xml
+C:\Users\len\Desktop\New Unity Project20171224\New Unity Project\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\len\Desktop\New Unity Project20171224\New Unity Project\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+C:\Users\len\Desktop\New Unity Project20171224\New Unity Project\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\len\Desktop\New Unity Project20171224\New Unity Project\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\len\Desktop\New Unity Project20171224\New Unity Project\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\len\Desktop\New Unity Project20171224\New Unity Project\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\len\Desktop\New Unity Project20171224\New Unity Project\obj\Debug\Assembly-CSharp.dll
+C:\Users\len\Desktop\New Unity Project20171224\New Unity Project\obj\Debug\Assembly-CSharp.pdb

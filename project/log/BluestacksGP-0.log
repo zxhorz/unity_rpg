@@ -1,0 +1,2 @@
+pid=6204 tid=5524 2017-12-27 02:42:23.780 ALARM  logger "-----------------  log4z thread started!   ----------------------------" 
+pid=6204 tid=5524 2017-12-27 02:42:23.780 ALARM  logger "logger id=0 key=Main name=BluestacksGP path=./log/ level=1 display=1" 
